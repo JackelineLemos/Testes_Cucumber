@@ -1,6 +1,6 @@
 # Testes_Cucumber
 ## 🖍️ Descrição
-Criação de dois tipos de contas bancárias para exemplificar a função dos testes de caixa branca utilizando Gherkin.
+Criação de dois tipos de contas bancárias para exemplificar a função dos testes de caixa branca utilizando Cucumber.
 
 ## 🎯 Objetivo
 Desenvolver a habilidade de desenvolver testes de caixa branca criando cenários de testes utilizando Cucumber para garantir a qualidade do código e expor erros de desenvolvimentos caso haja falhas.
